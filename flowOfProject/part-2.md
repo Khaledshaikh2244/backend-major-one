@@ -1,4 +1,5 @@
-backend major part-2
+backent
+ major part-2
 
 context- 1 
 created the standard as MVC but not v coz of react
@@ -19,4 +20,20 @@ context- 3
 --making use of Debugger
 --accepting data as json using express parser(not body parser)
 --encryption of passwords
+--create loginUser(checking via email || password)
+--compare the password (bcrypt.compare(password , userDetails.password))
+--save the Details
 
+
+
+
+
+  "token": 
+  
+  
+  "
+  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2NjM1MDE5MTQxZmE1YWZhZmFiOGIwNDYiLCJpYXQiOjE3MTUwMTgwNDQsImV4cCI6MTcxNTIzNDA0NH0.9YYs_aMatLm-wp-FDgxr3Abo4Olr0g6ycmF77b6IzNM
+  
+  ",
+  "name": " aakhalid"
+}
